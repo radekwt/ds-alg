@@ -1,4 +1,5 @@
 HEAP
+
 Kopiec działa jako kolejka priorytetowa dla instancji podanej struktury. Początkowo wszystkie instancje struktur powinny być przechowywane z zachowaniem alfabetycznej kolejności imion (tzn. instancja z pierwszym alfabetycznie imieniem powinna być pierwszym elementem (korzeniem) kopca). Program powinien umożliwiać wykonywanie następujących operacji:
 Input 
 
