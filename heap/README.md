@@ -13,10 +13,8 @@ r
 zmień kolejność przechowywania elementów w kolejce priorytetowej na taką, w której element z najwcześniejszą datą jest przechowywany jako pierwszy element (korzeń kopca). Powtórzenia tej operacji powodują zmianę kolejności pomiędzy dwoma wspomnianymi wariantami (imiona alfabetycznie lub daty od najwcześniejszej);
 q
 wyjdź z programu (i zwolnij pamięć).
-Dodatkowe uwagi:
-Jeśli obaj potomkowie elementu mają taką samą wartość, potomek z mniejszym indeksem jest zamieniany z rodzicem. Do zdania testów 1 i 2 wystarczy zaimplementować operacje '+' i 'p'. Kolejne dwa testy zawierają dodatkowo operację '-'. Pozostałe testy zawierają wszystkie operacje. Test 0 jest dany poniżej.
-Wejście
-A sequence of instructions in the format presented above. The last instruction is q.
+
+Input
 
 Ciąg instrukcji w formacie opisanym powyżej. Ostatnią instrukcją jest q.
 
