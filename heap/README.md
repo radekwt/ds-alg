@@ -3,11 +3,11 @@ HEAP
 Kopiec działa jako kolejka priorytetowa dla instancji podanej struktury. Początkowo wszystkie instancje struktur powinny być przechowywane z zachowaniem alfabetycznej kolejności imion (tzn. instancja z pierwszym alfabetycznie imieniem powinna być pierwszym elementem (korzeniem) kopca). Program powinien umożliwiać wykonywanie następujących operacji:
 Input 
 
-+ n v1 ...vn
++n v1 ...vn
   
 dodaj n osób (format: <data> <imię>) do kolejki priorytetowej (kopca). Początkowo, osoba z pierwszym alfabetycznie imieniem powinna być pierwszym elementem (korzeniem) kopca;
 
-- m
+-m
   
 usuń m elementów minimalnych (z wierzchu kopca) i wypisz ich dane na ekranie (format: <data> <imię> np. 19-04-2022 Alan);
 
